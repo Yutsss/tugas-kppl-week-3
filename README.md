@@ -1,11 +1,11 @@
 # **Tugas KPPL E Week 3**
 Resume paper yang menggunakan model proses dalam membangun perangkat lunak.
 
-Nama: Adyuta Prajahita Murdianto
+**Nama**: Adyuta Prajahita Murdianto
 
-NRP: 5025221186
+**NRP**: 5025221186
 
-Kelas: KPPL E
+**Kelas**: KPPL E
 
 ## **Judul** 
 
