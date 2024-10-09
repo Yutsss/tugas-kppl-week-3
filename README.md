@@ -1,6 +1,12 @@
 # **Tugas KPPL E Week 3**
 Resume paper yang menggunakan model proses dalam membangun perangkat lunak.
 
+Nama: Adyuta Prajahita Murdianto
+
+NRP: 5025221186
+
+Kelas: KPPL E
+
 ## **Judul** 
 
 PENERAPAN METODE WATERFALL PADA APLIKASI TOKO ONLINE BIMA KIRANA CIBITUNG
